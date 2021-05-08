@@ -1,0 +1,1875 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pt",
+				"pt-2 \tBootstrap 4.4"
+			],
+			[
+				"a",
+				"a\t<a href=\"mailto:\"> "
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"w",
+				"w-25 \tBootstrap 4.4"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"prim",
+				"primerNombre"
+			],
+			[
+				"primer",
+				"primerNombre"
+			],
+			[
+				"pri",
+				"primerNombre"
+			],
+			[
+				"cust",
+				"customers"
+			],
+			[
+				"prime",
+				"primerApellido"
+			],
+			[
+				"te",
+				"telefono_2"
+			],
+			[
+				"tele",
+				"telefono_1"
+			],
+			[
+				"di",
+				"direccion"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"tel",
+				"telefono_1"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"control",
+				"form-control \tBootstrap 4.4"
+			],
+			[
+				"Su",
+				"Suppliers"
+			],
+			[
+				"num",
+				"$numberPag〔variable〕"
+			],
+			[
+				"nume",
+				"numberPag"
+			],
+			[
+				"fun",
+				"funcion"
+			],
+			[
+				"telefo",
+				"telefono_2"
+			],
+			[
+				"cod",
+				"cod_postal"
+			],
+			[
+				"cod_",
+				"cod_proveedor"
+			],
+			[
+				"is_",
+				"is_float〔function〕"
+			],
+			[
+				"is_d",
+				"is_double〔function〕"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"is_s",
+				"is_string〔function〕"
+			],
+			[
+				"sup",
+				"suppliers"
+			],
+			[
+				"set",
+				"setInterval〔function〕"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"ar",
+				"array\t$… = array (…)"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"btn-dar",
+				"btn-danger \tBootstrap 4.4"
+			],
+			[
+				"fon",
+				"font-weight-bold \tBootstrap 4.4"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"location",
+				"location.href"
+			],
+			[
+				"que",
+				"querySelector"
+			],
+			[
+				"c",
+				"checkbox〔function〕"
+			],
+			[
+				"su",
+				"submit\t.submit()"
+			],
+			[
+				"data",
+				"data-toggle=〔attribute〕"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"ke",
+				"keyup〔function〕"
+			],
+			[
+				"tabs",
+				"table-sm \tBootstrap 4.4"
+			],
+			[
+				"texr",
+				"text-right \tBootstrap 4.4"
+			],
+			[
+				"img",
+				"img-fluid \tBootstrap 4.4"
+			],
+			[
+				"w-",
+				"w-75 \tBootstrap 4.4"
+			],
+			[
+				"d-in",
+				"d-inline-flex \tBootstrap 4.4"
+			],
+			[
+				"d-fe",
+				"d-inline-flex \tBootstrap 4.4"
+			],
+			[
+				"d-",
+				"d-inline \tBootstrap 4.4"
+			],
+			[
+				"ter",
+				"text-right \tBootstrap 4.4"
+			],
+			[
+				"th",
+				"th\t<th>"
+			],
+			[
+				"ta",
+				"table-striped \tBootstrap 4.4"
+			],
+			[
+				"col",
+				"col-10 \tBootstrap 4.4"
+			],
+			[
+				"of",
+				"offset-2 \tBootstrap 4.4"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"footer\t<footer>"
+			],
+			[
+				"link",
+				"linki\tlink - icon"
+			],
+			[
+				"fa",
+				"favicon"
+			],
+			[
+				"arr",
+				"array_push(&array:array"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"H",
+				"Http"
+			],
+			[
+				"type",
+				"typeuser"
+			],
+			[
+				"border-w",
+				"border-white \tBootstrap 4.4"
+			],
+			[
+				"btn-pr",
+				"btn-outline-primary \tBootstrap 4.4"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 4.4"
+			],
+			[
+				"col-s",
+				"col-sm-11 \tBootstrap 4.4"
+			],
+			[
+				"colmd-1",
+				"col-md-1 \tBootstrap 4.4"
+			],
+			[
+				"bg",
+				"bg-light \tBootstrap 4.4"
+			],
+			[
+				"btn-da",
+				"btn-dark \tBootstrap 4.4"
+			],
+			[
+				"round",
+				"rounded-0 \tBootstrap 4.4"
+			],
+			[
+				"center",
+				"align-content-center \tBootstrap 4.4"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 4.4"
+			],
+			[
+				"t",
+				"table-sm \tBootstrap 4.4"
+			],
+			[
+				"text-b",
+				"text-black-50 \tBootstrap 4.4"
+			],
+			[
+				"text",
+				"text-muted \tBootstrap 4.4"
+			],
+			[
+				"tabl",
+				"table-bordered \tBootstrap 4.4"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"pa",
+				"parents〔function〕"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mod",
+				"modal-lg \tBootstrap 4.4"
+			],
+			[
+				"texc",
+				"text-center \tBootstrap 4.4"
+			],
+			[
+				"fw",
+				"font-weight\tproperty"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"texm",
+				"text-muted \tBootstrap 4.4"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"foc",
+				"focusout〔function〕"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"json",
+				"jQuery.parseJSON\tjQuery.parseJSON"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"j",
+				"jQuery.get\tjQuery.get"
+			],
+			[
+				"key",
+				"keypress\t.keypress()"
+			],
+			[
+				"pre",
+				"presupuesto"
+			],
+			[
+				"col-",
+				"col-10 \tBootstrap 4.4"
+			],
+			[
+				"atr",
+				"attr〔function〕"
+			],
+			[
+				"sub",
+				"submit〔function〕"
+			],
+			[
+				"read",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"tec",
+				"text-center \tBootstrap 4.4"
+			],
+			[
+				"Pro",
+				"ProductoElaborado.php"
+			],
+			[
+				"Pre",
+				"PresupuestoDetalle.php"
+			],
+			[
+				"presu",
+				"presupuesto_id"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"compra_",
+				"compra_prov_det_id"
+			],
+			[
+				"desc",
+				"descripcion"
+			],
+			[
+				"compra_pro",
+				"compra_prov_id"
+			],
+			[
+				"Mater",
+				"MateriaPrimaAlm"
+			],
+			[
+				"ra",
+				"razonSocial"
+			],
+			[
+				"compra_prov_",
+				"compras_prov_id"
+			],
+			[
+				"provee",
+				"proveedor_id"
+			],
+			[
+				"is_a",
+				"is_array〔function〕"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"rou",
+				"route〔function〕"
+			],
+			[
+				"arti",
+				"articulo"
+			],
+			[
+				"int",
+				"intval〔function〕"
+			],
+			[
+				"prov",
+				"proveedor"
+			],
+			[
+				"S",
+				"SupplierSaleRequest〔class〕"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"Re",
+				"Requests"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 14052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/SellerController.php",
+			"settings":
+			{
+				"buffer_size": 8985,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/CustomersController.php",
+			"settings":
+			{
+				"buffer_size": 7363,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/dashboard/sellers/form/update.blade.php",
+			"settings":
+			{
+				"buffer_size": 3510,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xxxx.txt",
+			"settings":
+			{
+				"buffer_size": 1958,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/dashboard/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 4422,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/Innova",
+		"/C/laragon/www/Innova/app",
+		"/C/laragon/www/Innova/app/Exports",
+		"/C/laragon/www/Innova/app/Http",
+		"/C/laragon/www/Innova/app/Http/Controllers",
+		"/C/laragon/www/Innova/app/Http/Requests",
+		"/C/laragon/www/Innova/public",
+		"/C/laragon/www/Innova/public/js",
+		"/C/laragon/www/Innova/public/js/ajax",
+		"/C/laragon/www/Innova/resources",
+		"/C/laragon/www/Innova/resources/views",
+		"/C/laragon/www/Innova/resources/views/dashboard",
+		"/C/laragon/www/Innova/resources/views/dashboard/_layout",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers",
+		"/C/laragon/www/Innova/resources/views/dashboard/sellers",
+		"/C/laragon/www/Innova/resources/views/sys"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/Innova/resources/views/dashboard/sellers/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/sellers/form/consult.blade.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/DatajsonController.php",
+		"/C/laragon/www/Innova/app/Exports/VendedoresExport.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/ExportFileController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/CustomersController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/SupplierController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/DashboardUserController.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/sellers/form/insert.blade.php",
+		"/C/laragon/www/Innova/app/Http/Requests/SellerRequest.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/sellers/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/sellers/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers/form/update.blade.php",
+		"/C/laragon/www/Innova/app/Exports/ClientesExport.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers/form/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers/form/insert.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/_layout/table_template.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers/form/consult.blade.php",
+		"/C/laragon/www/Innova/public/js/ajax/form-general.js",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/customers/form/consult.blade.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/SearchTableController.php",
+		"/C/laragon/www/Innova/public/js/ajax/table-autocomplete-search.js",
+		"/C/laragon/www/Innova/resources/views/dashboard/users/form/consult.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/users/form/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers/form/insert.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/warehouse/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/subcategory/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/raw_material/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/category/create.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/branch/create.blade.php",
+		"/C/laragon/www/Innova/app/Exports/UsersExport.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/report/exportExcel.blade.php",
+		"/C/laragon/www/Innova/app/Exports/ProveedoresExport.php",
+		"/C/laragon/www/Innova/public/js/proveedores.js",
+		"/C/laragon/www/Innova/app/Http/Controllers/ValidController.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/index.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/users/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/users/update.blade.php",
+		"/C/laragon/www/Innova/app/Http/Requests/UserUpdateRequest.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/report/exportPDF.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/users/form/insert.blade.php",
+		"/C/laragon/www/Innova/resources/views/sys/errors.blade.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/CategoryController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/BranchController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/ImageController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/RawMaterialController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/SellerController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/SubcategoryController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/SupplierSaleController.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/WarehouseController.php",
+		"/C/laragon/www/Innova/routes/web.php",
+		"/C/laragon/www/Innova/app/User.php",
+		"/C/laragon/www/Innova/config/excel.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/AuthenticateController.php",
+		"/C/laragon/www/Innova/database/factories/UserFactory.php",
+		"/C/laragon/www/Innova/app/SubcategoriaAlm.php",
+		"/C/laragon/www/Innova/app/Subcategoria.php",
+		"/C/laragon/www/Innova/app/Proveedor.php",
+		"/C/laragon/www/Innova/app/ProductoMaterial.php",
+		"/C/laragon/www/Innova/app/ProductoElaborado.php",
+		"/C/laragon/www/Innova/app/PresupuestoDetalle.php",
+		"/C/laragon/www/Innova/app/Presupuesto.php",
+		"/C/laragon/www/Innova/app/MateriaPrimaAlm.php",
+		"/C/laragon/www/Innova/app/MateriaPrima.php",
+		"/C/laragon/www/Innova/app/FacturaClienteDet.php",
+		"/C/laragon/www/Innova/app/FacturaCliente.php",
+		"/C/laragon/www/Innova/app/CompraProvDet.php",
+		"/C/laragon/www/Innova/app/CompraProv.php",
+		"/C/laragon/www/Innova/app/Cliente.php",
+		"/C/laragon/www/Innova/app/Almacen.php",
+		"/C/laragon/www/Innova/app/Vendedor.php",
+		"/C/laragon/www/Innova/public/css/general-from.css",
+		"/C/laragon/www/Innova/resources/views/dashboard/_layout/main.blade.php",
+		"/C/laragon/www/Innova/public/js/users.js",
+		"/C/laragon/www/Innova/resources/views/dashboard/users/create.blade.php",
+		"/C/laragon/www/Innova/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php",
+		"/C/laragon/www/Innova/public/css/report-view-pdf.css",
+		"/C/laragon/www/Innova/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php",
+		"/C/laragon/www/Innova/app/Http/Controllers/EstimateController.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/estimate/create.blade.php",
+		"/C/laragon/www/Innova/vendor/barryvdh/laravel-dompdf/src/PDF.php",
+		"/C/laragon/www/Innova/public/plugins/fontisto/css/fontisto.css",
+		"/C/laragon/www/Innova/public/plugins/fontawesome-free/css/all.css",
+		"/C/laragon/www/Innova/vendor/symfony/var-dumper/Dumper/CliDumper.php",
+		"/C/laragon/www/Innova/public/css/autocomplete.css",
+		"/C/laragon/www/Innova/public/js/presupuesto-register.js",
+		"/C/laragon/www/Innova/resources/views/dashboard/_layout/other_option.blade.php",
+		"/C/laragon/www/Innova/public/css/presupuesto-register.css",
+		"/C/laragon/www/Innova/app/Http/Controllers/UserController.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/estimate/form/insert.blade.php",
+		"/C/xampp/htdocs/blog.com/public/plugin/fontawesome/css/all.css",
+		"/E/Mis librerias/Iconos/fontawesome-free-5.13.0-web/css/fontawesome.css",
+		"/E/Mis librerias/Iconos/fontawesome-free-5.13.0-web/css/all.css",
+		"/C/laragon/www/Innova/public/plugins/bootstrap-autocomplete/bootstrap-autocomplete.min.js",
+		"/C/laragon/www/Innova/database/migrations/2021_02_08_150220_productos_materiales.php",
+		"/C/laragon/www/Innova/database/migrations/2021_02_08_145533_presupuestos.php",
+		"/C/laragon/www/Innova/database/migrations/2021_02_26_001615_create_presupuesto_detalles_table.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/subcategory/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/subcategory/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/query_id.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/squery.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/warehouse/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/warehouse/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/raw_material/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/raw_material/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/estimate/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/estimate/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/category/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/category/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/branch/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/branch/query.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/warehouse/form/consult.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/warehouse/form/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/warehouse/form/insert.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/form/consult_id.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/form/consult_s.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/form/update.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/form/consult.blade.php",
+		"/C/laragon/www/Innova/resources/views/dashboard/suppliers_sale/form/insert.blade.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"telefono_2",
+			"$sellers",
+			"sellers",
+			"Clientes",
+			"customer",
+			"primerNombre",
+			"cedula",
+			"customers",
+			"Cliente",
+			"customers",
+			"clientes",
+			"Cliente",
+			"customers",
+			"registro",
+			"Vendedor",
+			"sellersAll",
+			"search/json/",
+			"proveedores",
+			"cedula",
+			"direccion",
+			"Est",
+			"Dirección",
+			"customers",
+			"clientes",
+			"Crear Cliente",
+			"vendedor",
+			"query",
+			"customers",
+			"Mostrar Clientes",
+			"suppliers",
+			"proveedores",
+			"Proveedor",
+			"customer",
+			"cod_postal",
+			"nombre",
+			"razonSocial",
+			"12",
+			"customer",
+			"prov",
+			"Actualizar Proveedor",
+			"Crear Proveedores",
+			"array_unique",
+			"primerCedula",
+			"Código",
+			"Razon",
+			"Nombre",
+			"primerNombre",
+			"primerApellido",
+			"razonSocial",
+			"Razon",
+			"suppliers",
+			"Proveedor",
+			"razonSocial",
+			"nombre",
+			"suppliers",
+			"cod_postal",
+			"direccion",
+			"razonSocial",
+			"correo",
+			"Mostrar Proveedores",
+			"proveedores",
+			"_user",
+			"nombre",
+			"Usuario",
+			"nombre",
+			"12",
+			"cod_postal",
+			"username",
+			"ProveedoresExport",
+			"MODIFICAR",
+			"users",
+			"Razon",
+			"nombre",
+			"User",
+			"SuppliersAll",
+			"function",
+			"condition",
+			"campo",
+			"coincidencia",
+			"orderBy",
+			"numberPag",
+			"searchInput",
+			"value",
+			"tabla",
+			"User::",
+			"User",
+			"user",
+			"User",
+			"double",
+			"float",
+			"function",
+			"object",
+			"is_array",
+			"array",
+			"is_string",
+			"string",
+			"number",
+			"input",
+			"inputNoNullIsNum",
+			"nombre",
+			"users",
+			"user",
+			"dateInit",
+			"username",
+			"users",
+			"update",
+			"action",
+			"eliminado",
+			"warning",
+			"document",
+			"$user",
+			"Mostrar",
+			"table",
+			"$_SESSION['notifications'] =",
+			"notifications",
+			"notification",
+			"exampleModal",
+			"data",
+			"button",
+			"type",
+			"button",
+			"primary",
+			"table",
+			"data",
+			"Product",
+			"users",
+			"products",
+			"Nelson Portillo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$seller",
+			"seller",
+			"sellers",
+			"customers",
+			"customer",
+			"suppliers",
+			"$_user",
+			"->encrypId",
+			"compra_prov_id",
+			"if (is_array($this->user) == false ) { return $this->auth->redirect($this->authRoute); }",
+			"$this->user = $this->auth->start();",
+			"SupplierSaleController",
+			"raw",
+			"raw_material",
+			"warehouse",
+			"wareh",
+			"warehouse",
+			"Almacen::",
+			"warehouse",
+			"branch",
+			"Sucursal::",
+			"subcategory",
+			"Subcategoria::",
+			"Categoria",
+			"category",
+			"VENDEDOR",
+			"Vendedor::",
+			"Proveedor::Vendedor",
+			"seller",
+			"sellers",
+			"dashboard.sellers",
+			"supplier",
+			"suppliers"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								155
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/SellerController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7313,
+								7307
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										7956,
+										7957
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										7815,
+										7816
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5746.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/CustomersController.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7288,
+								7162
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										7359,
+										7360
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6291,
+										6292
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2028.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/dashboard/sellers/form/update.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3028,
+								3028
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "xxxx.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/dashboard/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1505,
+								1511
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1512,
+										1513
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1478,
+										1479
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.337806719869,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "innova.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"27":
+				{
+					"group": 0,
+					"index": 3
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

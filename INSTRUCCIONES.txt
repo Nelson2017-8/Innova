@@ -1,0 +1,34 @@
+﻿REQUISITOS:
+
+* TENER LARAGON EN MODO HTTPS. PARA HABILITARLO VALLA A: MENU -> APACHE -> SSL > HABILITADO
+	SE ADJUNTA IMAGEN DE COMO VERSE CUANDO EL SSL ESTA HABILITADO
+* CREAR UNA BASE DE DATOS VACIA, LLAMADA id16077085_innova
+* TENER LOS ARCHIVOS FUENTES DEL PROYECTO EN C:\laragon\www\Innova
+
+INSTRUCIONES:
+
+* CREAR MANUALMENTE LA DB DE DATOS VACIA
+* EJECUTAR autorun.bat
+* PRECIONAR UNA TECLA PARA SALIR DEL autorun.bat COMO ADMINISTRADOR CUANDO ALLA FINALIZADA
+* IR A http://innova.test/ O https://innova.test/ CUALQUIERA ES IGUAL, EL PROGRAMA REDIRIGUE AUTOMATICAMENTE A https
+* INGRESAR AL SISTEMA CON LAS SIGUIENTES CREDENCIALES:
+	email: admin@root.com
+	password: 12345678
+
+
+
+GITHUB
+
+... o crea un nuevo repositorio en la línea de comandos
+echo "# Innova-CA" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Nelson2017-8/Innova-CA.git
+ git push -u origin main
+
+... o enviar un repositorio existente desde la línea de comandos
+git remoto add origin https://github.com/Nelson2017-8/Innova-CA.git
+ rama git -M main 
+git push -u origin main
